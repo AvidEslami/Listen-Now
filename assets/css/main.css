@@ -95,6 +95,20 @@ input, select, textarea {
 		box-shadow: inset 0 0 0 0px #ffffff;
 	}
 
+	#header > button#brochure:hover  {
+		width: auto;
+		position: absolute;
+		top: 0.25rem;
+    	right: 0.5rem;
+		margin: 1px;
+		padding: 2px;
+		color:gray !important;
+		background-color:transparent;
+		/* height: 20px; */
+		/* line-height: -190px */
+		box-shadow: inset 0 0 0 0px #ffffff;
+	}
+
 	#header > button#brochure2  {
 		width: 70px;
 		position: absolute;
@@ -103,6 +117,21 @@ input, select, textarea {
     	right: 6.1rem;
 		margin: 1px;
 		padding: 2px;
+		/* height: 20px; */
+		/* line-height: -190px */
+		box-shadow: inset 0 0 0 0px #ffffff;
+	}
+
+	#header > button#brochure2:hover  {
+		width: 70px;
+		position: absolute;
+		font-size:larger;
+		top: 0.25rem;
+    	right: 6.1rem;
+		margin: 1px;
+		padding: 2px;
+		color:gray !important;
+		background-color:transparent;
 		/* height: 20px; */
 		/* line-height: -190px */
 		box-shadow: inset 0 0 0 0px #ffffff;
@@ -122,6 +151,21 @@ input, select, textarea {
 		/* line-height: -190px */
 		box-shadow: inset 0 0 0 0px #ffffff;
 	}
+
+	#header > button#brochure2:hover  {
+		width: 70px;
+		position: absolute;
+		font-size:larger;
+		top: 0.25rem;
+    	right: 6.1rem;
+		margin: 1px;
+		padding: 2px;
+		color:gray !important;
+		background-color:transparent;
+		/* height: 20px; */
+		/* line-height: -190px */
+		box-shadow: inset 0 0 0 0px #ffffff;
+	}
 }	
 
 #header > button#brochure3  {
@@ -132,6 +176,22 @@ input, select, textarea {
 	right: 11rem;
 	margin: 1px;
 	padding: 2px;
+	/* height: 20px; */
+	/* line-height: -190px */
+	box-shadow: inset 0 0 0 0px #ffffff;
+
+}
+
+#header > button#brochure3:hover  {
+	width: 70px;
+	position: absolute;
+	font-size:larger;
+	top: 0.25rem;
+	right: 11rem;
+	margin: 1px;
+	padding: 2px;
+	color: gray !important;
+	background-color:transparent;
 	/* height: 20px; */
 	/* line-height: -190px */
 	box-shadow: inset 0 0 0 0px #ffffff;
