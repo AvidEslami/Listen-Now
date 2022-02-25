@@ -1886,3 +1886,17 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+#about .image.main {
+	display: flex;
+	justify-content: center;
+}
+
+#about .image.main img {
+	width: 50%;
+}
+
+#about .image:before {
+	background-color: unset;
+}
