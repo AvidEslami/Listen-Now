@@ -1469,7 +1469,7 @@ input, select, textarea {
 		.brandImages {
 			 max-height:100px;
 			 max-width:225px; 
-			border-radius: 20px;
+			border-radius: 5px;
 			border: 10px solid white;
 			
 		}
@@ -1478,7 +1478,6 @@ input, select, textarea {
 			.brandImages {
 				height:50px;
 				width:112px; 
-			   border-radius: 10px;
 			}
 		}
 
