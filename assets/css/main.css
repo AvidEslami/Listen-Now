@@ -164,9 +164,6 @@ textarea {
 	appearance: none;
 }
 
-
-
-
 #invis {
 	width: 0px;
 	height: 0px;
@@ -1355,7 +1352,7 @@ body.is-preload #bg:before {
 	position: relative;
 	min-height: 100vh;
 	width: 100%;
-	padding: 4rem 2rem;
+	padding: 1.25rem 2rem;
 	z-index: 3;
 }
 
